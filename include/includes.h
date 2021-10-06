@@ -14,7 +14,7 @@
 #define N_STUDENTS     50           // Número total de alunos
 #define QUEUE_SIZE      5           // Tamanho máximo da fila para o bebedouro
 #define L_QUEUE_SIZE   10           // Tamanho máximo da fila para o lago
-#define DANGER         90           // Chance de ataque do jacaré (100 - N)
+#define DANGER         90           // Chance de ataque do jacaré
 #define MIN_D           6           // Mínimo de dano causado por um morto
 #define MAX_D          12           // Máximo de dano causado por um morto
 #define TIME_FILL_LAKE 1            // Tempo para encher a garrafa no lago  
